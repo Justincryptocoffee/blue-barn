@@ -11,3 +11,4 @@ build/
 Thumbs.db
 tsconfig.tsbuildinfo
 .tsc-*.txt
+_live-index.js
